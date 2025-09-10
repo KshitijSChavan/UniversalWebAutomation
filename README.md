@@ -7,6 +7,7 @@ This tool demonstrates how to automate interactions on **any website** by combin
 - **OCR (Optical Character Recognition)** for detecting text on screen.
 - **Selenium + PyAutoGUI** for performing actions like clicking, typing, and scrolling.
 - **LLM integration** (OpenAI/Anthropic APIs) for flexible instruction parsing and extracting required information.
+- watch demo at - https://youtu.be/xj15TDoTX-U
 
 The system allows users to define a sequence of actions (click, type, scroll, extract) in plain language, which are then executed on the target webpage.
 
@@ -98,4 +99,3 @@ Actions supported:
 ## Notes
 - This algorithm is a **demo framework** and should only be used on websites where automation is legally and ethically permitted.  
 - No sensitive credentials or site-specific logic is included here.
-- watch demo at - https://youtu.be/xj15TDoTX-U
