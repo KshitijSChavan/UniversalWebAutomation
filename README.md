@@ -2,6 +2,8 @@
 
 # Algorithm: Universal Web Automation Tool
 
+The code has been removed due to potential legal and ethical concerns.
+
 ## Overview
 This tool demonstrates how to automate interactions on **any website** by combining:
 - **OCR (Optical Character Recognition)** for detecting text on screen.
